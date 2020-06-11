@@ -7,3 +7,4 @@ This is managed using a series of electromagnets embedded in the track to pull t
 car is detected using hall effect sensors that sense the magnetic field of the car's strong neodymium magnets. This detection
 event is used to signal the activation of an electromagnet which creates an attractive force that pulls the car forward.
 
+![](https://github.com/MichaelD33/magneticCar/blob/master/design%20files/renderings/carOnTrack1.jpg)
